@@ -1,0 +1,10 @@
+# Ignore system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore node/python/build if ever added later
+node_modules/
+dist/
+build/
+__pycache__/
